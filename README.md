@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dillonloh. I am a Singaporean who is currently studying in Nagoya, Japan.
+- 👋 Hi, I’m @dillonloh. I am a Singaporean who is currently working in Komaki-shi, Aichi-ken, Japan.
 - 👀 I’m interested in Machine Learning and Data Science as a whole.
 - 🌱 I’m currently learning Astrostatistics, Data Science.
 
