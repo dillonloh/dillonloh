@@ -32,7 +32,7 @@ My biggest interests lie in Machine Learning, Data Science, and Data Engineering
 - **Cloud ML:** Azure Machine Learning
 
 ## Cloud Services
-- AWS EC2, RDS, S3
+- AWS EC2, RDS, S3, Glue
 - Azure VMs, Azure Machine Learning
 
 <!---
