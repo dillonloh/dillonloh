@@ -18,8 +18,7 @@ My biggest interests lie in Machine Learning, Data Science, and Data Engineering
 ## Database Management
 - MySQL, SQLite
 - MongoDB
-- phpMyAdmin
-- AWS RDS
+- AWS RDS, AWS Glue
 
 ## Data Engineering/Analytics
 - **Data Wrangling/Analytics:** Pandas, Numpy
