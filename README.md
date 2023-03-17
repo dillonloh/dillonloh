@@ -28,9 +28,9 @@ My biggest interests lie in Machine Learning, Data Science, and Data Engineering
 
 ## Machine Learning
 - **Neural Networks:** PyTorch, TensorFlow
-- **General ML** SciPy, scikit-Learn, Google OR-Tools
+- **General ML:** SciPy, scikit-Learn, Google OR-Tools
 - **Image Processing:** opencv, scikit-image, albumentations
-- **Cloud ML** Azure Machine Learning
+- **Cloud ML:** Azure Machine Learning
 
 ## Cloud Services
 - AWS EC2, RDS, S3
