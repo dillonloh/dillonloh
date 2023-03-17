@@ -6,7 +6,7 @@ My biggest interests lie in Machine Learning, Data Science, and Data Engineering
 # My (growing) skillset
 
 ## Programming Languages
-- Python  ★★★★★	(3 years wprk experience)
+- Python  ★★★★★	(3 years work experience)
 - Javascript ★★★★☆ (1 year work experience)
 - C ★★☆☆☆
 - R ★☆☆☆☆
