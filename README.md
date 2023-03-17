@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @dillonloh. I am a Singaporean who is currently working in Komaki-shi, Aichi-ken, Japan.
-- 👀 I’m interested in Machine Learning and Data Science as a whole.
-- 🌱 I’m currently learning Astrostatistics, Data Science.
+Hi, I’m @dillonloh, a Singaporean who is currently working in Komaki-shi, Aichi-ken, Japan. 
+I am currently a freelance backend developer at Hiverlab and Autonomous Robotics Researcher at OnClouds 株式会社.
+
+My biggest interests lie in Machine Learning, Data Science, and Data Engineering.
+
+# Skills
+
+## Programming Languages
+
+- Python  ★★★★★	
+- Javascript ★★★★☆
+- C ★★☆☆☆
+- R ★★☆☆☆
+
+## Backend Tech Stack:
+- Flask (Python) 
+- NodeJS (JavaScript)
 
 <!---
 dillonloh/dillonloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
