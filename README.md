@@ -3,18 +3,38 @@ I am currently a freelance backend developer at Hiverlab and Autonomous Robotics
 
 My biggest interests lie in Machine Learning, Data Science, and Data Engineering.
 
-# Skills
+# My (growing) Skillset
 
 ## Programming Languages
-
-- Python  ★★★★★	
-- Javascript ★★★★☆
+- Python  ★★★★★	(3 years experience)
+- Javascript ★★★★☆ (1 year experience)
 - C ★★☆☆☆
-- R ★★☆☆☆
+- R ★☆☆☆☆
 
-## Backend Tech Stack:
-- Flask (Python) 
-- NodeJS (JavaScript)
+## Backend Dev
+- Flask
+- NodeJS
+
+## Database Management
+- MySQL, SQLite
+- MongoDB
+- phpMyAdmin
+- AWS RDS
+
+## Data Engineering/Analytics
+- **Data Wrangling/Analytics:** Pandas, Numpy
+- **ETL/Ingestion Pipelines:** Prefect/Prefect 2/Prefect Cloud (Python), Bree (JS)
+- **Dashboards/Visualisations:** Grafana, PowerBI, Plotly, Apache eCharts, matplotlib, seaborn
+
+## Machine Learning
+- **Neural Networks:** PyTorch, TensorFlow
+- **General ML** SciPy, scikit-Learn, Google OR-Tools
+- **Image Processing:** opencv, scikit-image, albumentations
+- **Cloud ML** Azure Machine Learning
+
+## Cloud Services
+- AWS EC2, RDS, S3
+- Azure VMs, Azure Machine Learning
 
 <!---
 dillonloh/dillonloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
