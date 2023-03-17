@@ -3,7 +3,7 @@ I am currently a freelance backend developer at Hiverlab and Autonomous Robotics
 
 My biggest interests lie in Machine Learning, Data Science, and Data Engineering.
 
-# My (growing) Skillset
+# My (growing) skillset
 
 ## Programming Languages
 - Python  ★★★★★	(3 years experience)
