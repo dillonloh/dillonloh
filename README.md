@@ -34,6 +34,7 @@ My biggest interests lie in Machine Learning, Data Science, and Data Engineering
 ## Cloud Services
 - AWS EC2, RDS, S3, Glue
 - Azure VMs, Azure Machine Learning
+- GitHub Actions
 
 <!---
 dillonloh/dillonloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
