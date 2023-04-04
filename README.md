@@ -6,6 +6,7 @@ My biggest interests lie in Machine Learning, Data Science, and Data Engineering
 # My Research Experience
 
 **Nagoya University Galaxy Formation and Evolution Laboratory (Omega Lab)**
+
 Did research on the use of various types of unsupervised machine learning methods/neural networks in analysing the link between the morphological and physical properties of galaxies.
 
 - Poster presentation at the 9th East Asian Numerical Astrophysics Meeting held in Okinawa (September 26 - 30, 2022)
