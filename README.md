@@ -1,5 +1,5 @@
-Hi, I’m @dillonloh, a Singaporean who is currently working in Komaki-shi, Aichi-ken, Japan. 
-I am currently a freelance backend developer at Hiverlab and Autonomous Robotics Researcher at OnClouds 株式会社.
+Hi, I’m @dillonloh, a Singaporean who is currently working at Nittera Co. Ltd. in Komaki-shi, Aichi-ken, Japan.  
+I have 2 years of work experience in data analytics, machine learning, and backend development.
 
 My biggest interests lie in Machine Learning, Data Science, and Data Engineering.
 
@@ -15,16 +15,13 @@ Repository for my work can be found [here](https://github.com/dillonloh/galaxy-p
 
 # My Work Experience
 
-**Hiverlab | Mar 2023 - Apr 2023**
-
+**Hiverlab | Mar 2023 - Mar 2023**
 Backend Developer (Freelance)
 
 **Hiverlab | Nov 2022 - Mar 2023**
-
 Data/Machine Learning Engineer Intern
 
 **OnClouds 株式会社 | Aug 2021 - Mar 2023**
-
 Autonomous Robotics Researcher
 
 # My (growing) skillset
