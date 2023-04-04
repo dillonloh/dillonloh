@@ -9,8 +9,8 @@ My biggest interests lie in Machine Learning, Data Science, and Data Engineering
 
 Did research on the use of various types of unsupervised machine learning methods/neural networks in analysing the link between the morphological and physical properties of galaxies.
 
-- Poster presentation at the 9th East Asian Numerical Astrophysics Meeting held in Okinawa (September 26 - 30, 2022)
-- Short talk at the 4th Data Science in Astronomy Conference held at the Institute of Statistical Mathematics in Tokyo (October 3 - 5, 2022)
+- Poster presentation at the 9th East Asian Numerical Astrophysics Meeting held in Okinawa (September 26 - 30, 2022) [Poster here](https://drive.google.com/file/d/1p8KgDVcbgbj3gPB_b58x4WM6ZLkN1kal/view?usp=sharing)
+- Short talk at the 4th Data Science in Astronomy Conference held at the Institute of Statistical Mathematics in Tokyo (October 3 - 5, 2022) [Slides here](https://docs.google.com/presentation/d/1eCxuSCMEshO7sUaviOSEWU8hxl2yHAMQ/edit?usp=sharing&ouid=106418298605170918085&rtpof=true&sd=true)
 
 Repository for my work can be found [here](https://github.com/dillonloh/galaxy-pca) 
 
