@@ -16,12 +16,15 @@ Repository for my work can be found [here](https://github.com/dillonloh/galaxy-p
 # My Work Experience
 
 **Hiverlab | Mar 2023 - Apr 2023**
+
 Backend Developer (Freelance)
 
 **Hiverlab | Nov 2022 - Mar 2023**
+
 Data/Machine Learning Engineer Intern
 
 **OnClouds 株式会社 | Aug 2021 - Mar 2023**
+
 Autonomous Robotics Researcher
 
 # My (growing) skillset
