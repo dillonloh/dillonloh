@@ -28,8 +28,8 @@ Autonomous Robotics Researcher
 # My (growing) skillset
 
 ## Programming Languages
-- Python  ★★★★★	(3 years work experience)
-- Javascript ★★★★☆ (1 year work experience)
+- Python  ★★★★★	
+- Javascript ★★★★☆ 
 - C ★★☆☆☆
 - R ★☆☆☆☆
 
