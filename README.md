@@ -17,7 +17,7 @@ Repository for my work can be found [here](https://github.com/dillonloh/galaxy-p
 
 # My Work Experience
 
-**Hiverlab | Mar 2023 - Mar 2023**
+**Hiverlab | Mar 2023 - Current**
 Backend Developer (Freelance)
 
 **Hiverlab | Nov 2022 - Mar 2023**
