@@ -17,14 +17,17 @@ Repository for my work can be found [here](https://github.com/dillonloh/galaxy-p
 
 # My Work Experience
 
+**Nittera Ventures | Apr 2023 - Current**
+Software Engineer
+
 **Hiverlab | Mar 2023 - Current**
 Backend Developer (Freelance)
 
+**OnClouds 株式会社 | Aug 2021 - Current**
+Data Scientist/ML Engineer (Freelance)
+
 **Hiverlab | Nov 2022 - Mar 2023**
 Data/Machine Learning Engineer Intern
-
-**OnClouds 株式会社 | Aug 2021 - Mar 2023**
-Autonomous Robotics Researcher
 
 # My (growing) skillset
 
@@ -58,6 +61,9 @@ Autonomous Robotics Researcher
 - AWS EC2, RDS, S3, Glue
 - Azure VMs, Azure Machine Learning
 - GitHub Actions
+
+## Misc.
+- Docker, InnoSetup
 
 <!---
 dillonloh/dillonloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
