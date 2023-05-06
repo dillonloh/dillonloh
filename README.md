@@ -18,15 +18,19 @@ Repository for my work can be found [here](https://github.com/dillonloh/galaxy-p
 # My Work Experience
 
 **Nittera Ventures | Apr 2023 - Current**
+
 Software Engineer
 
 **Hiverlab | Mar 2023 - Current**
+
 Backend Developer (Freelance)
 
 **OnClouds 株式会社 | Aug 2021 - Current**
+
 Data Scientist/ML Engineer (Freelance)
 
 **Hiverlab | Nov 2022 - Mar 2023**
+
 Data/Machine Learning Engineer Intern
 
 # My (growing) skillset
