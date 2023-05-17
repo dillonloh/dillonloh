@@ -19,7 +19,7 @@ Repository for my work can be found [here](https://github.com/dillonloh/galaxy-p
 
 **Nittera Ventures | Apr 2023 - Current**
 
-Software Engineer
+Full-stack Software Engineer
 
 **Hiverlab | Mar 2023 - Current**
 
