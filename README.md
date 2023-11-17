@@ -25,7 +25,7 @@ AI/Backend Engineer
 
 Data Scientist/ML Engineer (Freelance)
 
-**Nittera Ventures | Apr 2023 - Current**
+**Nittera Ventures | Apr 2023 - July 2023**
 
 Full-stack Software Engineer
 
