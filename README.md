@@ -38,8 +38,7 @@ Data/Machine Learning Engineer Intern
 - Python  ★★★★★	
 - Javascript ★★★★☆
 - PHP ★★☆☆☆ 
-- C ★★☆☆☆
-- C++ ★★☆☆☆
+- C/C++ ★★☆☆☆
 - R ★☆☆☆☆
 
 ## Backend Dev
