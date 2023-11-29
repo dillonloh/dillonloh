@@ -2,7 +2,6 @@ Hi, I’m @dillonloh, a Singaporean who is currently working at Hiverlab Pte Ltd
 I also do freelance backend development/data engineering work.
 I have 3 years of work experience in data analytics, machine learning, and backend development.
 
-My biggest interests lie in Machine Learning, Data Science, and Data Engineering.
 
 # My Research Experience
 
