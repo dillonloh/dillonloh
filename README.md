@@ -73,7 +73,9 @@ Data/Machine Learning Engineer Intern
 
 # My Personal Publications
 I also enjoy sharing my thoughts and spend time either making long-form posts on LinkedIn sharing project progress or editing newsletters.
-My LinkedIn profile is [here](https://www.linkedin.com/in/dillonloh/)
+
+My LinkedIn profile is [here](https://www.linkedin.com/in/dillonloh/).
+
 I was also the Editor-in-Chief of Nagoya University's NUdge newsletter, which you can see [here](https://github.com/dillonloh/my-publications/tree/main/nudge-newsletter)
 
 
