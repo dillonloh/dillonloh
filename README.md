@@ -1,4 +1,4 @@
-Hi, I’m @dillonloh, a Singaporean who is currently working at Nittera Co. Ltd. in Komaki-shi, Aichi-ken, Japan.  
+Hi, I’m @dillonloh, a Singaporean who is currently working at Hiverlab Pte Ltd. in Singapore.  
 I also do freelance backend development/data engineering work.
 I have 2 years of work experience in data analytics, machine learning, and backend development.
 
@@ -37,8 +37,10 @@ Data/Machine Learning Engineer Intern
 
 ## Programming Languages
 - Python  ★★★★★	
-- Javascript ★★★★☆ 
+- Javascript ★★★★☆
+- PHP ★★☆☆☆ 
 - C ★★☆☆☆
+- C++ ★★☆☆☆
 - R ★☆☆☆☆
 
 ## Backend Dev
