@@ -40,8 +40,8 @@ Data/Machine Learning Engineer Intern
 - C++ ★★☆☆☆ - Familiar with syntax and able to script with it (LeetCode level essentially)
 
 ## Backend Dev
-- Flask
-- NodeJS
+- Flask/FastAPI (Python)
+- Express (NodeJS)
 
 ## Database Management
 - MySQL, SQLite
