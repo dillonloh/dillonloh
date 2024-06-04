@@ -35,11 +35,9 @@ Data/Machine Learning Engineer Intern
 # My (growing) skillset
 
 ## Programming Languages
-- Python  ★★★★★	
-- Javascript ★★★★☆
-- PHP ★★☆☆☆ 
-- C/C++ ★★☆☆☆
-- R ★☆☆☆☆
+- Python  ★★★★★	- Can build software comfortably, provided access to documentation is available
+- Javascript ★★★★☆ - Can build software with minimal issues, provided access to documentation is available
+- C++ ★★☆☆☆ - Familiar with syntax and able to script with it (LeetCode level essentially)
 
 ## Backend Dev
 - Flask
