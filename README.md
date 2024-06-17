@@ -32,40 +32,6 @@ Full-stack Software Engineer
 
 Data/Machine Learning Engineer Intern
 
-# My (growing) skillset
-
-## Programming Languages
-- Python  ★★★★★	- Can build software comfortably, provided access to documentation is available
-- Javascript ★★★★☆ - Can build software with minimal issues, provided access to documentation is available
-- C++ ★★☆☆☆ - Familiar with syntax and able to script with it (LeetCode level essentially)
-
-## Backend Dev
-- Flask/FastAPI (Python)
-- Express (NodeJS)
-
-## Database Management
-- MySQL, SQLite
-- MongoDB
-- AWS RDS, AWS Glue
-
-## Data Engineering/Analytics
-- **Data Wrangling/Analytics:** Pandas, Numpy
-- **ETL/Ingestion Pipelines:** Prefect/Prefect 2/Prefect Cloud (Python), Bree (JS)
-- **Dashboards/Visualisations:** Grafana, PowerBI, Plotly.js, Apache eCharts, matplotlib, seaborn
-
-## Machine Learning
-- **Neural Networks:** PyTorch, TensorFlow
-- **General ML:** SciPy, scikit-Learn, Google OR-Tools
-- **Image Processing:** opencv, scikit-image, albumentations
-- **Cloud ML:** Azure Machine Learning
-
-## Cloud Services
-- AWS EC2, RDS, S3, Glue
-- Azure VMs, Azure Machine Learning
-- GitHub Actions
-
-## Misc.
-- Docker, InnoSetup
 
 # My Personal Publications
 I also enjoy sharing my thoughts and spend time either making long-form posts on LinkedIn sharing project progress or editing newsletters.
