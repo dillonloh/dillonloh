@@ -28,6 +28,8 @@ ML/Robotics Software Engineer (Freelance)
 
 Software Engineer
 
+# DS/ML Practice Projects
+A collection of my smaller projects that I have done to build on my DS/ML skills can be found [here](https://github.com/dillonloh/ds-projects). These tend to be short one-off projects that were either based on Kaggle competitions or from self-sourced datasets.
 
 # My Personal Publications
 I also enjoy sharing my thoughts and spend time either making long-form posts on LinkedIn sharing project progress or editing newsletters.
