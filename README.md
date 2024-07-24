@@ -16,21 +16,17 @@ Repository for my work can be found [here](https://github.com/dillonloh/galaxy-p
 
 # My Work Experience
 
-**Hiverlab | Mar 2023 - Current**
+**Hiverlab | Nov 2022 - Current**
 
 AI/Backend Engineer
 
 **OnClouds 株式会社 | Aug 2021 - Current**
 
-Data Scientist/ML Engineer (Freelance)
+ML/Robotics Software Engineer (Freelance)
 
 **Nittera Ventures | Apr 2023 - July 2023**
 
-Full-stack Software Engineer
-
-**Hiverlab | Nov 2022 - Mar 2023**
-
-Data/Machine Learning Engineer Intern
+Software Engineer
 
 
 # My Personal Publications
