@@ -22,7 +22,7 @@ AI/Backend Engineer
 
 **OnClouds 株式会社 | Aug 2021 - Current**
 
-ML/Robotics Software Engineer (Freelance)
+ML/Robotics Software Engineer
 
 **Nittera Ventures | Apr 2023 - July 2023**
 
