@@ -1,4 +1,4 @@
-Hi, I’m @dillonloh, a Singaporean who is currently working at Hiverlab Pte Ltd. in Singapore.  
+Hi, I’m @dillonloh, a senior software developer at Hiverlab Pte Ltd. in Singapore.  
 I also do freelance backend development/data engineering work and am currently a part-time research intern under Professor Frank Guan at the Singapore Institute of Technology.
 
 I have 3 years of work experience in data analytics, machine learning, and backend development.
